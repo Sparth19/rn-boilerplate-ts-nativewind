@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView, Text} from 'react-native';
-import Icon from './assets/icons/verified.svg';
+import Icon from 'assets/icons/verified.svg';
 import {cssInterop} from 'nativewind';
 
 cssInterop(Icon, {
